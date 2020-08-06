@@ -4,8 +4,8 @@
 ## I'm a IT student 🎓, programming 🖥️ and networking lover 🌐
 ### 😅 Becoming better in:
 
-- [x] HTML5
-- [x] ES6 JS
+- [x] HTML
+- [x] JS
 - [x] CSS
 - [x] Python
 
