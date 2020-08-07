@@ -8,6 +8,8 @@
 - [x] JS
 - [x] CSS
 - [x] Python
+- [x] Linux
+- [x] Networking
 
 ### 💡 Learning in progress:
 
