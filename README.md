@@ -15,6 +15,7 @@
 
 - [ ] TypeScript
 - [ ] Socket programming in python
+- [ ] Flask
 
 ### ⚙️ Languages and Tools:
 
