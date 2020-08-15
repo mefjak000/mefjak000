@@ -28,4 +28,5 @@
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_docker.svg" />
 <img align="left" alt="Bash" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" />
