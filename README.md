@@ -9,14 +9,14 @@
 - [x] CSS
 - [x] Python
 - [x] Linux
+- [x] Docker
 - [x] Networking
 
 ### 💡 Learning in progress:
 
-- [ ] TypeScript
 - [ ] Socket programming in python
+- [ ] TypeScript
 - [ ] Flask
-- [ ] Docker
 
 ### ⚙️ Languages and Tools:
 
