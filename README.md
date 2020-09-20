@@ -8,6 +8,8 @@
 - [x] JS
 - [x] CSS
 - [x] Python
+- [x] PHP
+- [x] SQL
 - [x] Linux
 - [x] Docker
 - [x] Networking
@@ -27,6 +29,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" />
+<img align="left" alt="PHP" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_php.svg" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sql.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_docker.svg" />
 <img align="left" alt="Bash" width="26px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" />
