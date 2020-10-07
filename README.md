@@ -12,13 +12,6 @@
 - [x] SQL
 - [x] Linux
 - [x] Docker
-- [x] Networking
-
-### 💡 Learning in progress:
-
-- [ ] Socket programming in python
-- [ ] TypeScript
-- [ ] Flask
 
 ### ⚙️ Languages and Tools:
 
