@@ -1,7 +1,7 @@
 
 # Welcome! 👋
 
-## I'm a IT student 🎓, programming 🖥️ and networking lover 🌐
+## I'm a IT student 🎓, programming and networking lover 🖥️
 ### I really like:
 
 - [x] Web development
